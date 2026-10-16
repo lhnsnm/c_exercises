@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/multiplier.dir/link.d CMakeFiles/multiplier.dir/src/multiplier_for_loop/main.c.o -o multiplier

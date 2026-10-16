@@ -1,6 +1,0 @@
-/home/lhnsnm/Documents/programming/learning/c_exercises/10-19-26/build/CMakeFiles/mini_calculator.dir
-/home/lhnsnm/Documents/programming/learning/c_exercises/10-19-26/build/CMakeFiles/multiplier.dir
-/home/lhnsnm/Documents/programming/learning/c_exercises/10-19-26/build/CMakeFiles/vending_machine.dir
-/home/lhnsnm/Documents/programming/learning/c_exercises/10-19-26/build/CMakeFiles/test.dir
-/home/lhnsnm/Documents/programming/learning/c_exercises/10-19-26/build/CMakeFiles/edit_cache.dir
-/home/lhnsnm/Documents/programming/learning/c_exercises/10-19-26/build/CMakeFiles/rebuild_cache.dir
