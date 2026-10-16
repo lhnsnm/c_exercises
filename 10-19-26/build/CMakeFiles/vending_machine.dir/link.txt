@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/vending_machine.dir/link.d CMakeFiles/vending_machine.dir/src/vending_machine/main.c.o -o vending_machine

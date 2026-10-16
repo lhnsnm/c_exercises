@@ -1,0 +1,5 @@
+Vending Machine Menu:
+A - Apple
+B - Banana
+C - Chocolate
+Enter your selection: Dispensing Banana

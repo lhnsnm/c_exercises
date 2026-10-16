@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/mini_calculator.dir/link.d CMakeFiles/mini_calculator.dir/src/mini_calculator/main.c.o -o mini_calculator

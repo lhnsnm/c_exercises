@@ -1,0 +1,13 @@
+CalculatorAddTest 2 0
+CalculatorSubtractTest 2 0
+CalculatorMultiplyTest 2 0
+CalculatorInvalidTest 2 0
+MultiplierTableTest 0 0
+VendingMachineTest 0 0
+---
+CalculatorAddTest
+CalculatorSubtractTest
+CalculatorMultiplyTest
+CalculatorInvalidTest
+MultiplierTableTest
+VendingMachineTest
